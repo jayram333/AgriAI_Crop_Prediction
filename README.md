@@ -21,19 +21,20 @@ AgriAI Crop Prediction is a smart agriculture web application designed to assist
 - Vite  
 - Tailwind CSS  
 
----
-
 ## ⚙️ Setup
 
-```bash
+bash
 git clone https://github.com/your-username/AgriAI-Crop-Prediction.git
 cd AgriAI-Crop-Prediction
 npm install
 npm run dev
-```
 
----
+
 
 ## 👨‍💻 Author
 
-Your Name
+**Jayram**  
+Exploring Web Development and AI-based applications  
+- 🔗 GitHub: https://github.com/jayram333  
+- 📧 Email: pulakalasriram@gmail.com 
+- 💼 Open to internships and learning opportunities  
