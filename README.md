@@ -28,7 +28,7 @@ git clone https://github.com/your-username/AgriAI-Crop-Prediction.git
 cd AgriAI-Crop-Prediction
 npm install
 npm run dev
-
+---
 
 
 ## 👨‍💻 Author
