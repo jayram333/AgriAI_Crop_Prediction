@@ -25,10 +25,9 @@ AgriAI Crop Prediction is a smart agriculture web application designed to assist
 
 bash
 git clone https://github.com/your-username/AgriAI-Crop-Prediction.git
-cd AgriAI-Crop-Prediction
-npm install
-npm run dev
----
+- cd AgriAI-Crop-Prediction
+- npm install
+- npm run dev
 
 
 ## 👨‍💻 Author
